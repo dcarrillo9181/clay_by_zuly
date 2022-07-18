@@ -6,8 +6,12 @@ const Footer = () => {
     <div className='footer-container'>
       <p>2022 Clay By Zuly - All Rights Reserved </p>
       <p className='icons'>
-        <AiFillInstagram />
-        <AiOutlineFacebook />
+        <a href='https://www.instagram.com/claybyzuly/'>
+          <AiFillInstagram />
+        </a>
+        <a href='https://www.facebook.com/claybyzuly/'>
+          <AiOutlineFacebook />
+        </a>
       </p>
     </div>
   )
