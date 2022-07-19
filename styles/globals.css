@@ -65,7 +65,7 @@ width: 100%;
     margin-left: 6px;
 }
 .logo{
-  color: #696989;
+  color: #79507a;
   font-size: 28px;
 
 }
@@ -166,10 +166,10 @@ width: 100%;
 }
 .hero-banner-image{
   position: absolute;
-  top: 0%;
-  right:5%;
-  width: 450px;
-  height: 450px;
+  top: -8%;
+  right:-10%;
+  width: 550px;
+  height: 550px;
 }
 
 
@@ -246,8 +246,10 @@ text-align: end;
 }
 .footer-banner-image{
   position: absolute;
-  top: -25%;
-  left: 34%;
+  top: -22%;
+  left: 42%;
+  width: 550px;
+  height: 550px;
 }
 .banner-desc .right{
   line-height: 1.4;
@@ -631,10 +633,10 @@ margin-top: 160px;
     margin-top: 80px;
   }
   .footer-banner-image{
-    width: 77%;
+    width: 17%;
     left: 30%;
     top: 6%;
-    height: 56%
+    height: 10%
   }
   .banner-desc .left h3{
     font-weight: 900;
